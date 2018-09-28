@@ -1,0 +1,22 @@
+system_ver02_sfun.obj
+c2_system_ver02.obj
+c12_system_ver02.obj
+system_ver02_sfun_registry.obj
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmwrgb2hsv_tbb.lib"
+
+
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\sf_runtime.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmx.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmex.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmat.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libfixedpoint.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libut.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmwmathutil.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libemlrt.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmwsl_log_load_blocks.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmwsimulink.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmwsl_sfcn_cov_bridge.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmwsl_simtarget_core.lib" 
+"C:\Program Files\MATLAB\R2017a\extern\lib\win64\mingw64\libmwsl_simtarget_instrumentation.lib" 
+"-LC:\Program Files\MATLAB\R2017a\bin\win64" "-llibmwipp"
+
