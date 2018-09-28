@@ -1,4 +1,0 @@
-LIBRARY rail_ver01_sfun.mexw64
-EXPORTS
-mexFunction
-mexfilerequiredapiversion

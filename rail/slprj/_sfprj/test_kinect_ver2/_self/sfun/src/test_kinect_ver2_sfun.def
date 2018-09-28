@@ -1,4 +1,0 @@
-LIBRARY test_kinect_ver2_sfun.mexw64
-EXPORTS
-mexFunction
-mexfilerequiredapiversion
