@@ -26,3 +26,6 @@ codegen/
 
 # Octave session info
 octave-workspace
+
+# for Mac by Ko Yamaura
+.DS_Store
