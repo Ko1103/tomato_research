@@ -1,4 +1,4 @@
-function result = checkTomatoPos(currentImagePos,currentCartPos, error)
+function result = checkTomatoPos(currentImagePos, currentCartPos, error)
 %checkTomatoPos 入力位置を未熟トマトの位置情報と比較
 %   入力
 %   currentImagePos: struct 対象としているトマトの画像位置
