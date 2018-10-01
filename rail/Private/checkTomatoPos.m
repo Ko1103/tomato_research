@@ -1,11 +1,11 @@
 function result = checkTomatoPos(currentImagePos,currentCartPos, error)
 %checkTomatoPos 入力位置を未熟トマトの位置情報と比較
 %   入力
-%   currentImagePos: struct
-%   currentCartPos: double
-%   error: double
+%   currentImagePos: struct 対象としているトマトの画像位置
+%   currentCartPos: double 現在のカートの位置
+%   error: double 許容誤差
 %   出力
-%   result: bool
+%   result: bool 未熟トマトの位置と一致するならばtrue, その他はfalse
 
 posDatas = load('TomatoPos');
 posDatas(posDatas.x > (currentImagePos.x - error));
